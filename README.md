@@ -1,4 +1,6 @@
 # Pre-Cog Task
+Link for the video -> https://iiithydresearch-my.sharepoint.com/:f:/g/personal/arihant_rastogi_research_iiit_ac_in/EpE-4fZuPaFFvfL8pnnpekYBCReO2nuuipHVdrZ9CRc9bg?e=ddu3iL
+
 References - Task
 
 Dataset Creation 
